@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\учеба\3 курс\mkr1\mkr1\bin\Debug\net6.0\mkr1.exe
+C:\Users\user\Desktop\учеба\3 курс\mkr1\mkr1\bin\Debug\net6.0\mkr1.deps.json
+C:\Users\user\Desktop\учеба\3 курс\mkr1\mkr1\bin\Debug\net6.0\mkr1.runtimeconfig.json
+C:\Users\user\Desktop\учеба\3 курс\mkr1\mkr1\bin\Debug\net6.0\mkr1.dll
+C:\Users\user\Desktop\учеба\3 курс\mkr1\mkr1\bin\Debug\net6.0\mkr1.pdb
+C:\Users\user\Desktop\учеба\3 курс\mkr1\mkr1\obj\Debug\net6.0\mkr1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\учеба\3 курс\mkr1\mkr1\obj\Debug\net6.0\mkr1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\учеба\3 курс\mkr1\mkr1\obj\Debug\net6.0\mkr1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\учеба\3 курс\mkr1\mkr1\obj\Debug\net6.0\mkr1.AssemblyInfo.cs
+C:\Users\user\Desktop\учеба\3 курс\mkr1\mkr1\obj\Debug\net6.0\mkr1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\учеба\3 курс\mkr1\mkr1\obj\Debug\net6.0\mkr1.dll
+C:\Users\user\Desktop\учеба\3 курс\mkr1\mkr1\obj\Debug\net6.0\refint\mkr1.dll
+C:\Users\user\Desktop\учеба\3 курс\mkr1\mkr1\obj\Debug\net6.0\mkr1.pdb
+C:\Users\user\Desktop\учеба\3 курс\mkr1\mkr1\obj\Debug\net6.0\mkr1.genruntimeconfig.cache
+C:\Users\user\Desktop\учеба\3 курс\mkr1\mkr1\obj\Debug\net6.0\ref\mkr1.dll
