@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "/TRgVpSyqTO6wEz45rFN6UZp55BgoAr2CvJv9L/5BlWT7oxmoFE2M3tlbs0QwxgqmIecGmzKdCARQa93j0KeOA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\учеба\\3 курс\\mkr1_tests\\mkr1_tests\\mkr1_tests.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Не удалось найти проект \"C:\\Users\\user\\Desktop\\учеба\\3 курс\\mkr1_tests\\mkr1\\mkr1.csproj\". Убедитесь, что ссылка на проект действительна и файл проекта существует.",
+      "libraryId": "C:\\Users\\user\\Desktop\\учеба\\3 курс\\mkr1_tests\\mkr1\\mkr1.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
